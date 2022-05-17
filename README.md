@@ -12,6 +12,3 @@ aprendi git add
 * luego se traen los archivos desde la nube con git pull
 `git pull`
 
-asdalksdjlaksjd
-
-aspdka;lsdka;sld
